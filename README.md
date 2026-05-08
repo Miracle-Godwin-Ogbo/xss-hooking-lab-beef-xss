@@ -29,7 +29,8 @@ To demonstrate how Cross-Site Scripting (XSS) vulnerabilities can be used to hoo
 ![Demo website](Screenshot_Demo_website.png)
 
 # Part 2: BeEF-XSS Setup
- ## Starting BeEF-XSS
+ ##### Starting BeEF-XSx
+ beef-xss
  
  #### beef-xss startup screenshot
 ![Beef Startup](Screenshot_beef_startup.png)
