@@ -64,7 +64,8 @@ To analyze browser information collected after successful hook execution.
 # Part 5: Safe Demonstration Interaction
 ## Demonstration
 
-Safe browser interaction modules were demonstrated within the controlled lab environment.
+Safe browser interaction modules were demonstrated by creating and sending alart Dialog to target saying "XSS Demonstration Successfull" within the controlled lab environment.
+
 
 #### Interaction Screenshot
 ![Interaction](Screenshot_interaction.png)
