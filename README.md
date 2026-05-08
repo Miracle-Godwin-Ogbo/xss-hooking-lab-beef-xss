@@ -23,7 +23,7 @@ To demonstrate how Cross-Site Scripting (XSS) vulnerabilities can be used to hoo
 - Observe hooked browser interaction
 
 # Part 1: Demo Website Setup
-## To create a local demo web page for safe XSS testing.
+## created a local demo web page for safe XSS testing.
 
 #### Demo Website screenshot
 ![Demo website](Screenshot_Demo_website.png)
