@@ -1,25 +1,20 @@
 # Objective
-
 To demonstrate how Cross-Site Scripting (XSS) vulnerabilities can be used to hook a browser session using BeEF-XSS in a controlled lab environment.
 
 # Environment
-
 - Attacker: Kali Linux
 - Target: Custom Demo Web Application
 - Framework: BeEF-XSS
 - Network: Local Virtual Lab
 
 # Tools Used
-
 - BeEF-XSS
 - Kali Linux
 - Firefox Browser
 - Custom Demo Website
 
 # Methodology
-
 ## The assessment followed a structured approach:
-
 - Create a vulnerable demo website
 - Start the BeEF-XSS framework
 - Inject the BeEF hook payload
@@ -28,7 +23,6 @@ To demonstrate how Cross-Site Scripting (XSS) vulnerabilities can be used to hoo
 - Observe hooked browser interaction
 
 # Part 1: Demo Website Setup
-
 ## To create a local demo web page for safe XSS testing.
 
 #### Demo Website screenshot
@@ -75,7 +69,6 @@ Safe browser interaction modules were demonstrated within the controlled lab env
 ![Interaction](Screenshot_interaction.png)
 
 # Findings
-
 - Cross-Site Scripting vulnerabilities can allow malicious JavaScript execution
 - Browser hooking can occur when input validation is not implemented properly
 - Client-side attacks can expose browser information and session interaction risks
@@ -86,7 +79,6 @@ Safe browser interaction modules were demonstrated within the controlled lab env
 - Client-side trust assumptions can be abused by attackers
 
 # Mitigation
-
 - Implement proper input validation and sanitization
 - Use Content Security Policy (CSP)
 - Encode user-generated content before rendering
