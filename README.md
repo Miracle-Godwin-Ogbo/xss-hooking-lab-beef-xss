@@ -1,4 +1,5 @@
 # XSS Browser Hooking Lab (BeEF-XSS)
+---
 
 ## Objective
 To demonstrate how Cross-Site Scripting (XSS) vulnerabilities can be used to hook a browser session using BeEF-XSS in a controlled lab environment.
